@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou DanAchcar
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+aprendizado;Apaixonado+por+tecnologia;Sempre+criando+novos+projetos+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Sou+DanAchcar;Desenvolvedor+em+aprendizado;Apaixonado+por+tecnologia;Sempre+criando+novos+projetos+🚀" />
 
 </div>
 
@@ -44,9 +44,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanAchcar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAchcar&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -56,7 +56,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DanAchcar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -66,7 +66,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanAchcar&theme=tokyo-night"/>
 
 </div>
 
@@ -84,19 +84,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 # 📫 Contato
 
-<div>
-
 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
 💼 LinkedIn: https://linkedin.com
 🌐 Portfólio: seu-site.com
-
-</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=DanAchcar\&color=blue)
 
 ⭐ Obrigado por visitar meu perfil!
 
