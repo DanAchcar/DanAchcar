@@ -84,9 +84,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 # 📫 Contato
 
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-💼 LinkedIn: https://linkedin.com
-🌐 Portfólio: seu-site.com
+📧 Email: Achcardaniel8@gmail.com
+💼 LinkedIn:
+🌐 Portfólio:
 
 ---
 
